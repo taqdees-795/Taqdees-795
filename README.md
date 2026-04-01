@@ -7,7 +7,7 @@
 ## 📌 About Me
 Hi! I am **Taqdees Arshad**, a student and aspiring AI & full-stack developer. I enjoy building **AI-based applications**, experimenting with **.NET projects**, and creating **web applications** using Python Flask, HTML, CSS, and JavaScript.  
 
-- 🎓 **Course:** CS 5A  
+- 🎓 **Course:** BS Computer Science
 - 💡 **Interests:** Artificial Intelligence, Machine Learning, Full-Stack Web Development  
 - 🌐 **Goal:** Build smart AI tools and web applications, and share knowledge through projects  
 
