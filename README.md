@@ -5,18 +5,18 @@
 ---
 
 ## 📌 About Me
-Hi! I am **Taqdees Arshad**, a student and aspiring AI developer. I enjoy building **AI-based applications** and experimenting with **.NET projects**, Windows Forms, and ML.NET.  
+Hi! I am **Taqdees Arshad**, a student and aspiring AI & full-stack developer. I enjoy building **AI-based applications**, experimenting with **.NET projects**, and creating **web applications** using Python Flask, HTML, CSS, and JavaScript.  
 
 - 🎓 **Course:** CS 5A  
-- 💡 **Interest:** Artificial Intelligence, Machine Learning, .NET Development  
-- 🌐 **Goal:** Build smart AI tools and share knowledge through projects  
+- 💡 **Interests:** Artificial Intelligence, Machine Learning, Full-Stack Web Development  
+- 🌐 **Goal:** Build smart AI tools and web applications, and share knowledge through projects  
 
 ---
 
 ## ⚙️ Skills
-- 💻 **Programming:** C#, Python  
+- 💻 **Programming Languages:** C#, Python, Java, JavaScript, HTML, CSS  
 - 🤖 **AI/ML:** ML.NET, basic AI models, Sentiment Analysis, Text Summarization  
-- 🛠 **Tools & Frameworks:** Visual Studio, .NET Framework, Windows Forms  
+- 🛠 **Tools & Frameworks:** Visual Studio, VS Code, Windows Forms, Flask, Android Studio  
 - 📦 **Version Control:** Git, GitHub  
 - 🐳 **Containerization:** Docker (Linux + Windows containers)  
 
@@ -30,14 +30,21 @@ Hi! I am **Taqdees Arshad**, a student and aspiring AI developer. I enjoy buildi
 - **Repository:** [AI_Career_Detector](https://github.com/taqdees-795/AI_Career_Detector)  
 - **Features:** Interactive UI, AI-based recommendations, Error handling  
 
-### 2️⃣ **Other Mini AI Projects**
-- Silent Voice( made using Java and Android Studio)
-- TypeRush( made using python and vs code)
-- KaamKar( made using python flask and vs code)
+### 2️⃣ **Silent Voice**
+- **Description:** Voice-based app for Android  
+- **Technologies:** Java, Android Studio  
+- **Features:** Speech recognition, voice commands  
 
-*(Add more projects as you create them)*  
+### 3️⃣ **TypeRush**
+- **Description:** Typing speed test application  
+- **Technologies:** Python, VS Code  
+- **Features:** Real-time typing speed tracking, accuracy calculation  
 
----
+### 4️⃣ **KaamKar**
+- **Description:** Web-based task management application  
+- **Technologies:** Python Flask, HTML, CSS, JavaScript  
+- **Features:** Task creation, updates, and dashboard for tracking  
+
 
 ## 📂 How to Run My Projects
 1. Clone the repository:  
