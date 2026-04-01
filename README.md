@@ -31,9 +31,9 @@ Hi! I am **Taqdees Arshad**, a student and aspiring AI developer. I enjoy buildi
 - **Features:** Interactive UI, AI-based recommendations, Error handling  
 
 ### 2️⃣ **Other Mini AI Projects**
-- AI Chatbot (C# / API-based)  
-- Text Summarizer (C# / ML.NET)  
-- Sentiment Analysis App (C# / ML.NET)  
+- Silent Voice( made using Java and Android Studio)
+- TypeRush( made using python and vs code)
+- KaamKar( made using python flask and vs code)
 
 *(Add more projects as you create them)*  
 
