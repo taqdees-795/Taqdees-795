@@ -51,11 +51,11 @@ I'm **Taqdees Arshad**, a dedicated **BS Computer Science student** at **KICSIT 
 
 ### AI & Machine Learning
 
-`ML.NET` `scikit-learn` `Data Preprocessing` `Prediction Models` `Image Recognition` `Sentiment Analysis`
+`ML.NET` `Data Preprocessing` `Prediction Models` `Image Recognition` 
 
 ### Development Tools
 
-`Git` `GitHub` `Docker` `Visual Studio` `VS Code` `Android Studio` `REST APIs` `Socket Programming`
+`Git` `GitHub` `Docker` `Visual Studio` `VS Code` `Android Studio` `REST APIs` 
 
 ### Soft Skills
 
