@@ -1,16 +1,15 @@
 <div align="center">
 
-# Taqdees Arshad 
+# Taqdees Arshad
 
-# *AI • .NET • Full-Stack Developer*
+## AI • .NET • Full-Stack Developer
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/taqdees-795)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/Taqdees-Arshad)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat\&logo=gmail\&logoColor=white)](mailto:taqdees795@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat\&logo=whatsapp\&logoColor=white)](https://wa.me/923349463158)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/taqdees-795)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/Taqdees-Arshad)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:taqdees795@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/923349463158)
 
 </div>
-
 ---
 
 # 📖 About Me
@@ -82,7 +81,7 @@ A professional warehouse and inventory management system developed as a console 
 * Docker Container Deployment
 * OOP Concepts Implementation
 
-🔗 **Repository:** Add Your Link Here
+🔗 **Repository:** https://github.com/taqdees-795/InventoryHub
 
 ---
 
