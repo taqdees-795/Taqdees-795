@@ -1,230 +1,247 @@
 <div align="center">
-  
-# ✦ Taqdees Arshad ✦
-### *AI & .NET Developer*
 
-[![GitHub Followers](https://img.shields.io/badge/Follow-181717?style=flat&logo=github&logoColor=white&color=4a5568)](https://github.com/taqdees-795)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white&color=4a5568)](https://linkedin.com/in/Taqdees-Arshad)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white&color=4a5568)](mailto:taqdees795@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white&color=4a5568)](https://wa.me/923349463158)
+# Taqdees Arshad 
+
+# *AI • .NET • Full-Stack Developer*
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/taqdees-795)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/Taqdees-Arshad)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat\&logo=gmail\&logoColor=white)](mailto:taqdees795@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat\&logo=whatsapp\&logoColor=white)](https://wa.me/923349463158)
 
 </div>
 
 ---
 
-## 📖 About Me
+# 📖 About Me
 
-I'm **Taqdees Arshad**, a dedicated **BS Computer Science student** at **KICSIT (IST University, Kahuta)** currently in my **6th semester** with a **3.80 GPA**. I'm passionate about building intelligent applications that merge **artificial intelligence** with practical software development.
+I'm **Taqdees Arshad**, a passionate **BS Computer Science student** focused on building smart and practical software solutions. I enjoy combining **Artificial Intelligence**, **.NET development**, and modern technologies to create impactful projects.
 
-- 🎓 **Education:** Bachelor of Science in Computer Science (2023–2027)
-- 🏫 **Institution:** KICSIT — IST University Campus, Kahuta, Rawalpindi
-- 💡 **Core Interests:** Artificial Intelligence, Machine Learning, Full-Stack Development, .NET Ecosystem
-- 🌐 **Mission:** Create smart, impactful tools and bridge academic knowledge with industry solutions
-- 📍 **Location:** Kahuta, Rawalpindi, Pakistan
-- 🔍 **Open to:** Internships, freelance projects, and technical collaborations
-
----
-
-## 🎓 Academic Journey
-
-| Degree | Institution | Duration | Achievement |
-|:-------|:------------|:---------|:------------|
-| **BS Computer Science** | KICSIT — IST University, Kahuta | 2023–2027 | GPA: 3.80/4.00 |
-| **F.Sc (Pre-Engineering / ICS)** | KRL Model College for Girls, Kahuta | 2021–2023 | 84% (927/1100) |
-| **Matriculation (Computer Science)** | KRL Model College for Girls, Kahuta | 2018–2021 | 94% (1036/1100) |
+* 🎓 **Degree:** BS Computer Science
+* 🏫 **University:** KICSIT – IST University Campus, Kahuta
+* 📚 **Semester:** 6th Semester
+* ⭐ **GPA:** 3.80 / 4.00
+* 💡 **Interests:** AI, Machine Learning, .NET, Web Development, Databases
+* 📍 **Location:** Rawalpindi, Pakistan
+* 🤝 **Open To:** Internships, Freelance Work, Collaborations
 
 ---
 
-## 🛠 Technical Expertise
+# 🎓 Academic Journey
 
-### Languages
+| Qualification       | Institute                   | Duration    | Result   |
+| :------------------ | :-------------------------- | :---------- | :------- |
+| BS Computer Science | KICSIT – IST University     | 2023 – 2027 | GPA 3.80 |
+| F.Sc / ICS          | KRL Model College for Girls | 2021 – 2023 | 84%      |
+| Matriculation       | KRL Model College for Girls | 2018 – 2021 | 94%      |
+
+---
+
+# 🛠 Technical Skills
+
+## 💻 Languages
 
 `C#` `Python` `Java` `JavaScript` `C++` `HTML5` `CSS3`
 
-### Frameworks & Libraries
+## ⚙️ Frameworks & Tools
 
-`.NET` `ML.NET` `Flask` `Django` `React` `Android SDK` `WinForms`
+`.NET` `WinForms` `Flask` `React` `Android Studio` `Visual Studio` `VS Code`
 
-### Databases
+## 🗄 Databases
 
-`MySQL` `SQLite` `MongoDB` `MongoDB Atlas` `Firebase`
+`MongoDB` `MySQL` `SQLite` `Firebase`
 
-### AI & Machine Learning
+## 🤖 AI / ML
 
-`ML.NET` `Data Preprocessing` `Prediction Models` `Image Recognition` 
+`ML.NET` `TensorFlow` `Scikit-learn` `Data Analysis`
 
-### Development Tools
+## 🐳 DevOps / Utilities
 
-`Git` `GitHub` `Docker` `Visual Studio` `VS Code` `Android Studio` `REST APIs` 
-
-### Soft Skills
-
-`Problem Solving` `Team Collaboration` `Adaptability` `Communication` `Critical Thinking`
-
-### Languages
-
-`English — Fluent` `Urdu — Native`
+`Git` `GitHub` `Docker` `REST APIs`
 
 ---
 
-## 📁 Featured Projects
-
-### 🤖 AI Career Detector
-
-> **Stack:** C# | Windows Forms | ML.NET
-
-An intelligent desktop application that recommends AI career paths based on user skills and interests using machine learning.
-
-**Key features:**
-- ML.NET-based recommendation engine
-- Interactive and accessible UI
-- Comprehensive error handling
-- Real-time career suggestions
-
-[View Repository →](https://github.com/taqdees-795/AI_Career_Detector)
+# 📁 Featured Projects
 
 ---
 
-### 🤟 Silent Voice
+## 📦 InventoryHub – Warehouse & Inventory Management System
+
+> **Stack:** C# | .NET Console App | MongoDB | Docker
+
+A professional warehouse and inventory management system developed as a console application.
+
+### ✨ Features:
+
+* Admin and Customer Panels
+* Product Inventory Management
+* Supplier Management
+* Cart and Order System
+* Revenue Reports & Charts
+* MongoDB Database Integration
+* Docker Container Deployment
+* OOP Concepts Implementation
+
+🔗 **Repository:** Add Your Link Here
+
+---
+
+## 🤖 AI Career Detector
+
+> **Stack:** C# | WinForms | ML.NET
+
+An intelligent desktop application that recommends AI career paths based on skills and interests.
+
+### ✨ Features:
+
+* Machine learning recommendations
+* Interactive UI
+* Real-time suggestions
+* Error handling
+
+🔗 https://github.com/taqdees-795/AI_Career_Detector
+
+---
+
+## 🤟 Silent Voice
 
 > **Stack:** Java | Android Studio | TensorFlow
 
-An Android application that translates sign language alphabet images into English text, empowering deaf and mute individuals.
+An Android app that converts sign language alphabet images into English text.
 
-**Key features:**
-- Real-time image recognition with trained ML model
-- Sign-to-English text translation
-- Integrated chatbot for language queries
-- Accessible and intuitive design
+### ✨ Features:
 
-[View Repository →](https://github.com/taqdees-795/Silent-Voice)
+* Image recognition
+* Text conversion
+* Chatbot support
+* Accessible design
 
----
-
-### 🔧 KaamKar — Worker Management System
-
-> **Stack:** Python | Flask | MongoDB | HTML/CSS/JS
-
-A full-stack web platform connecting local workers with customers through admin-verified profiles.
-
-**Key features:**
-- Three-role authentication (Admin, Worker, Customer)
-- Admin verification workflow
-- MongoDB Atlas cloud database
-- RESTful API architecture
-
-[View Repository →](https://github.com/taqdees-795/KaamKar)
+🔗 https://github.com/taqdees-795/Silent-Voice
 
 ---
 
-### ⌨️ TypeRush
+## 🔧 KaamKar – Worker Management Platform
+
+> **Stack:** Python | Flask | MongoDB
+
+A web platform connecting customers with workers through admin-approved profiles.
+
+### ✨ Features:
+
+* Admin / Worker / Customer roles
+* Profile verification
+* MongoDB Atlas integration
+* REST APIs
+
+🔗 https://github.com/taqdees-795/KaamKar
+
+---
+
+## ⌨️ TypeRush
 
 > **Stack:** Python | Tkinter
 
-A real-time typing speed test application tracking Words Per Minute (WPM) and accuracy.
+Typing speed test application with WPM and accuracy tracking.
 
-**Key features:**
-- Live WPM tracking
-- Accuracy percentage calculation
-- Multiple difficulty levels
-- Clean, focused interface
+### ✨ Features:
 
-[View Repository →](https://github.com/taqdees-795/TypeRush)
+* Live WPM
+* Accuracy percentage
+* Difficulty levels
+* Simple UI
 
----
-
-### 🍎 GreenBite — Fruit & Vegetable Recognizer
-
-> **Stack:** Python | scikit-learn | Android
-
-An ML-powered application that identifies 21 types of fruits and vegetables from camera images.
-
-**Key features:**
-- Recognizes 21 produce items from images
-- High-accuracy classification model
-- Single-model support for both fruits and vegetables
-- Camera integration for real-time recognition
-
-[View Repository →](https://github.com/taqdees-795/GreenBite)
+🔗 https://github.com/taqdees-795/TypeRush
 
 ---
 
-### 🛒 Online Grocery Management System
+## 🍎 GreenBite
 
-> **Stack:** C++ | File Handling
+> **Stack:** Python | ML | Android
 
-A complete grocery system with admin and customer modules, cart management, and automated billing.
+Recognizes fruits and vegetables using image classification.
 
-**Key features:**
-- Admin product and inventory management
-- Customer browsing with search and filters
-- Automated bill generation
-- File-based data persistence
+### ✨ Features:
+
+* 21 item recognition
+* ML model integration
+* Real-time detection
+
+🔗 Repository Available
 
 ---
 
-### 🚗 Car Rental Management System
+## 🚗 Car Rental Management System
 
 > **Stack:** C++ | OOP
 
-An object-oriented rental system managing vehicle bookings, returns, and fine calculations.
+Vehicle booking and rental management system.
 
-**Key features:**
-- Vehicle hierarchy using inheritance and polymorphism
-- Complete rental and payment workflow
-- Overdue return fine calculation
-- Clean OOP architecture
+### ✨ Features:
+
+* Booking system
+* Fine calculation
+* Return management
+* OOP architecture
 
 ---
 
-### 💬 Chat Room Application
+## 💬 Chat Room Application
 
 > **Stack:** Python | Socket Programming
 
-A real-time client-server chat application supporting multiple concurrent users.
+Multi-user real-time chat application.
 
-**Key features:**
-- Multi-client socket architecture
-- Real-time message broadcasting
-- Lightweight and efficient design
-- Single-machine deployment
+### ✨ Features:
 
----
-
-### ⏰ Smart Reminder App
-
-> **Stack:** Java | Android Studio
-
-An Android task manager with intelligent notification reminders for deadlines.
-
-**Key features:**
-- Custom reminder scheduling
-- Native Android notification integration
-- Clean task management UI
-- Deadline tracking and alerts
+* Client-server architecture
+* Multi-user chat
+* Live broadcasting
 
 ---
 
-### 📊 Global Suicide Rate Prediction
+# 🏆 Strengths
 
-> **Stack:** Python | scikit-learn | Data Science
-
-A machine learning model analyzing global suicide rate trends using Kaggle datasets.
-
-**Key features:**
-- Data preprocessing pipeline
-- Linear regression with evaluation metrics
-- Global trend visualization
-- Statistical insights
+* Problem Solving
+* Clean Code Practices
+* Database Design
+* Fast Learning Ability
+* Team Collaboration
+* Communication Skills
 
 ---
 
-## 📂 Running My Projects
+# 📈 Current Focus
 
-Clone any repository and follow the instructions below:
+* Advanced .NET Development
+* Machine Learning Projects
+* Full Stack Web Apps
+* Docker & Deployment
+* Open Source Contributions
 
-**For Python projects:**
+---
+
+# 📂 How To Run Projects
+
 ```bash
-cd project-name
-pip install -r requirements.txt
-python main.py
+git clone <repository-link>
+cd project-folder
+```
+
+(Add project specific steps here)
+
+---
+
+# 📫 Contact Me
+
+* 📧 Email: [taqdees795@gmail.com](mailto:taqdees795@gmail.com)
+* 💼 LinkedIn: linkedin.com/in/Taqdees-Arshad
+* 💻 GitHub: github.com/taqdees-795
+* 📱 WhatsApp: +92 334 9463158
+
+---
+
+<div align="center">
+
+### ✨ “Building Smart Solutions with Code & Creativity” ✨
+
+</div>
