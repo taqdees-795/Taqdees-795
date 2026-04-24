@@ -230,7 +230,7 @@ cd project-folder
 * 📧 Email: [taqdees795@gmail.com](mailto:taqdees795@gmail.com)
 * 💼 LinkedIn: linkedin.com/in/Taqdees-Arshad
 * 💻 GitHub: github.com/taqdees-795
-* 📱 WhatsApp: +92 334 9463158
+  
 
 ---
 
